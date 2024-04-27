@@ -4,13 +4,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><strong>Analytics Lead & Project Manager | Seattle, WA</strong><br>
   <br><br>
  <strong>About Me</strong>
- <br><br>
-  <br>Strategic data analytics and supply chain expert<br> with graduate education in Supply Chain, Data Science, 
+ <br>Strategic data analytics and supply chain expert<br> with graduate education in Supply Chain, Data Science, 
   and Business. Enjoys improving processes and driving organizations towards data driven decision making.<br>
-  <br><br>
   <a href="https://www.linkedin.com/in/marquis-lardinois/">View My LinkedIn Profile</a> 
   
-remote_theme: pages-themes/minimal@v0.2.0 
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
