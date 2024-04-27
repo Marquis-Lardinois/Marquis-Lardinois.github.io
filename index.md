@@ -5,7 +5,7 @@
 ### Projects
 
 [Predicting Heart Disease with Logistic Regression](/Predicting_Heart_Disease.md)
-<img src="images/heart.jpg?raw=true"/>
+<img src="images/heart.jpeg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
