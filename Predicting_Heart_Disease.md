@@ -67,4 +67,4 @@ I developed a predictive model using logistic regression to this Kaggle dataset 
 
 **Education:** Indicates the highest year of school completed, with 0 being never attended or kindergarten only and 6 being, having attended 4 years of college or more.
 
-<script src="https://gist.github.com/Marquis-Lardinois/5621ca6f417daaad5ac811d6a500b15e.js"></script>
+[Jupyter Notebook](Heart_Prediction.md)
