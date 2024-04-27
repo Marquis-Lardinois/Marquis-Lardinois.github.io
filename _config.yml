@@ -1,13 +1,14 @@
 title: Marquis Lardinois # your name (or website title) here
 logo: "/images/1694272394313.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>Marketing Analytics Lead & Project Manager | Seattle, WA<br>
-  About Me
-  <br>Strategic data analytics and supply chain expert<br>
-  <br>with graduate education in Supply Chain, Data Science, and Business.<br>
-  <br>Enjoys improving processes and driving organizations towards data driven<br>
-  <br>decision making.<br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br>Analytics Lead & Project Manager | Seattle, WA<br>
+  <br><br>
+ <strong>About Me</strong>
+ <br><br>
+  <br>Strategic data analytics and supply chain expert<br> with graduate education in Supply Chain, Data Science, 
+  and Business. Enjoys improving processes and driving organizations towards data driven decision making.<br>
+  <br><br>
+  <a href="https://www.linkedin.com/in/marquis-lardinois/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
