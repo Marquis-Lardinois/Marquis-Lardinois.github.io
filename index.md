@@ -5,7 +5,7 @@
 ### Machine Learning
 
 [Predicting Heart Disease with Logistic Regression](/Predicting_Heart_Disease.md)
-<img src="images/heart.jpeg?raw=true"/>
+<img src="images/imggg.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
