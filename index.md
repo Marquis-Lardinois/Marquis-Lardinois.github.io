@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/Predicting_Heart_Disease.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
