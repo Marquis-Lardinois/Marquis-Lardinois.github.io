@@ -2,7 +2,7 @@
 
 ---
 
-### Projects
+### Machine Learning
 
 [Predicting Heart Disease with Logistic Regression](/Predicting_Heart_Disease.md)
 <img src="images/heart.jpeg?raw=true"/>
@@ -31,5 +31,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+
